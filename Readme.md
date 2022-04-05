@@ -28,8 +28,43 @@ The apparel and luxury market reached $1.9 trillion globally in 2019 - and is ex
 
 However, the distribution of returns in the fashion industry is heavily skewed. This is because a traditional brand's business model is based around maximizing profit - by minimizing value returned to stakeholders.
 
-### Old System                      vs.                    New System
+### OLD SYSTEM VS NEW SYSTEM
 
 ![alt text](https://github.com/HibiscusDao/Whitepaper/blob/4fea7739a1fce21e5c3078d0d45eaf9e91a77046/Visuals/Profit_Distribution_Systems_001.jpg?raw=true)
 
+**The traditional fashion industry is rooted in the exploitation of:** 
+
+- **Manufacturers**
+- **Designers**
+- **The Environment**
+
+### Traditional Fashion = Humanitarian Exploitation
+
+Slave, child, and sweatshop labor are all common in the supply chain of traditional brands. These human rights violations are well-documented but suppressed via marketing and PR. 
+
+The biggest offenders (like Nike and H&M) have been put under pressure to improve their behavior but there is no way (yet) to verify if garments are being produced ethically. 
+
+### Traditional Fashion = Creative Exploitation
+
+Talented young designers generate massive value for brands - often without compensation. And even when they are compensated, they are not paid relative to the value they create. 
+
+A successful, popular design will earn a brand millions, yet the designer behind it will see none of these earnings. Instead, their designs become the IP of the brand. 
+
+### Traditional Fashion = Environmental Exploitation
+
+Fashion brands intentionally leverage planned obsolescence and instill an increasingly consumerist mindset based on overconsumption to feed their continued need for profit. 
+
+When overconsumption is encouraged, true sustainability is impossible to achieve.
+
+# Brands Obscure Exploitative Practices
+
+> “So really it comes down to this, there’s an anonymity in the supply chain. 
+
+****We don’t really know who, what, where and why —
+
+****we know why we’re consuming it, we wanna consume it - but **for the consumer it is virtually impossible to know whether a product was manufactured in safe conditions.**”
+> 
+> 
+> — Rebecca Burgess, Rebecca Burgess: Regenerative Textiles and Fibershed (8:24)
+>
 
