@@ -19,3 +19,14 @@ Build cryptographic profit sharing into our fashion lego tooling - enabling the 
 ### Enable Proof of Ethical Production
 
 Eventually, we want to create a system of producing clothes that uses consensus-driven blockchain technology to verify products are being made ethically.
+
+# Current Landscape of Apparel = Exploitation
+
+The fashion industry is growing exponentially - without any signs of slowing down. 
+
+The apparel and luxury market reached $1.9 trillion globally in 2019 - and is expected to surpass $3 trillion in the next decade.
+
+However, the distribution of returns in the fashion industry is heavily skewed. This is because a traditional brand's business model is based around maximizing profit - by minimizing value returned to stakeholders.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
