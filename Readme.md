@@ -105,5 +105,39 @@ To make this a reality we need to research and apply protocols to power fully tr
 
 ### ON CHAIN SUPPLY NFTS + TRANSACTIONS
 
+![alt text](https://github.com/HibiscusDao/Whitepaper/blob/f102119659555d29740c4b762a9eed8706e42253/Visuals/On_Chain_Provenance_001.jpg)
+
+## Hibiscus DAO = Empowerment
+
+We seek to normalize and facilitate: 
+
+- Not using slave labor.
+- Paying community/staff proportionally to their contributions
+- On-boarding current industry players onto the blockchain (designers & makers)
+
+With hope of creating: 
+
+- Strong design teams driven by community and monetary value.
+- More diversity, better ideas, better concepts, better curation, and more robust thinking.
+- Momentum towards living on-chain.
+
+## Hibiscus DAO = Ownership
+
+Crypto technologies help share ownership with stakeholders: 
+
+- Web3 communities can bring more value back to their creators when producing wearables
+- Forkable concepts and tools can be validated and iterated on by community creators.
+- Computer-aided designs can be registered on-chain as vectors and then used to produce anything from printed goods to cut & sew - enabling proper credit and compensation.
+- Future royalties of products can be distributed back to creators and the community by the DAOs
+
+## With an improved model we can build better to do more, produce less, and return value to creators and users.
+
+Blockchains can redesign incentives to enable freedom, effectiveness, and teamwork: 
+
+- Shareholders, makers and creators shouldn’t be in opposition.
+- Effective products and social human rights shouldn’t be in opposition.
+
+
+
 
 
