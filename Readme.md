@@ -162,6 +162,68 @@ As creating a humane on-chain system is a huge endeavor, we’re to use "merch" 
 4. **Produce the first community-curated collection.** 
     - Leverage in-house production supply chain + tech infrastructure to release Hibiscus’s first community-curated collection - becoming a decentralized apparel brand in the process.
 
+# Future Goals
+
+## Decentralizing Supply Chain + Returning Ownership to Participants
+
+We can decentralize the supply chain by: 
+
+- Setting up participation through product testing bounties, community management, cross-world infrastructure and blockchain development.
+- Eventually - creating the ultimate “god” protocol brands with full on chain supply.
+
+On returning ownership: 
+
+- Building on-chain tools for designers to register their work to ensure proper attribution.
+- Enable structures such as product purchases that would give back a percentage in ownership of the organization - enabling access to dividends.
+- Creating a community governed treasury to give back to inner city groups inspiring mainstream trends or help build better support structures for communities supplying raw materials.
+
+First steps = Inviting consumer participation via Product Review + Social Marketing Bounties: 
+
+- Sourcing content and reviews from users who are rewarded for it.
+
+## Building Incentives for Environmentally-Sound Consumption
+
+**We can reduce environmental impact by embracing that a single piece can live multiple lives with different owners.** 
+
+**We can incentivize this behavior by helping pieces hold their value with a robust secondary market ecosystem:**
+
+- Building integrated secondary markets where the community can list pre-owned pieces and enjoy continuous returns from future sales.
+- Integrating secondary markets and product liquidity such that you can “return” an item for the secondary market value immediately or purchase a “used” item for the current floor price.
+
+**And by allowing you to retain value from your item even after it leaves your closet:** 
+
+- Generating NFTs as “proof of journey” or “store of value” with the encrypted data gathered by your product: a unique “souvenir” of your time with the product before it leaves your wardrobe for a new home.
+- Focusing on chain storage, a dynamic NFT can “store” the customer’s collection as "shares" without having to immediately claim the items. Staking your shares, can possible let you “mine” limited products or give you access to new “utility” NFTs.
+
+## Augmenting User Experience
+
+### Geocaching = Gamifying IRL Exploration
+
+Decentralized geocaching would bring another dimension to the experience of buying and wearing sport clothes.
+
+Whether it’s a simple hike outside of LA or ascending Kilimanjaro - rewarding explorers with real value from their data gathered or their miles traveled helps create a regenerative and healthy relationship between users and performance products. 
+
+We can even incentivize outdoor exploration in our gear by having of our athletes create geocached bounties for each collection. 
+
+- Tweaking with a community approach: a prize cannot be fully redeemed until multiple fragments around the glove are found.
+
+- Adding a DeFi element: participants could have the privilege to stake their rewards into a location-specific protocol such that when subsequent participants claim rewards - the staked users earn as well.
+
+### Metaverse + Apparel = Innovating Human Expression
+
+Sportswear and technology still has a lot of limits IRL, the Metaverse enables us to explore possibilities + preview developments. 
+
+There are currently no culturally relevant Metaverse fashion platforms, whether it’s for designers, curators or users. 
+
+Whether for function or fashion - there are many use cases for Metaverse apparel: 
+
+- Equipping your avatar for Metaverse exploration or flexing at the recent opening of the Fingerprints DAO museum.
+- Enabling accessibility to give humans with disabilities more options to represent themselves and interact with their environment however they would like.
+- Ideating innovative designs that wouldn't be possible IRL - like light refracting “invisibility” jackets or continuously changing “prints” on pieces.
+- Using generative art to create new prints owned by creators - which can be sold/licensed.
+- Operationalizing physical onramps into the Metaverse by getting your body scanned and measured to your avatar.
+- Trying on clothes in the Metaverse, paying with your wallet, and getting the product sent to you IRL.
+
 
 
 
