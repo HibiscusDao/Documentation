@@ -60,9 +60,9 @@ When overconsumption is encouraged, true sustainability is impossible to achieve
 
 > “So really it comes down to this, there’s an anonymity in the supply chain. 
 
-****We don’t really know who, what, where and why —
+We don’t really know who, what, where and why —
 
-****we know why we’re consuming it, we wanna consume it - but **for the consumer it is virtually impossible to know whether a product was manufactured in safe conditions.**”
+We know why we’re consuming it, we wanna consume it - but for the consumer it is virtually impossible to know whether a product was manufactured in safe conditions.**”
 > 
 > 
 > — Rebecca Burgess, Rebecca Burgess: Regenerative Textiles and Fibershed (8:24)
