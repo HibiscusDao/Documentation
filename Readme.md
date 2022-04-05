@@ -63,4 +63,25 @@ When overconsumption is encouraged, true sustainability is impossible to achieve
 > 
 — Rebecca Burgess, Rebecca Burgess: Regenerative Textiles and Fibershed (8:24)
 >
+### Today, the world’s biggest, most visible brands go to great lengths to obscure their fundamentally exploitative business practices via marketing.
+
+They pour hundreds of millions into assuaging consumer guilt via manipulative messaging - without addressing the negative dynamics that make this type of marketing necessary in the first place.
+
+**Beloved brands such as Nike, The North Face, and Patagonia churn out marketing campaigns convincing consumers that buying their products is equated with supporting anti-racism, ethical production, and sustainability.**
+
+**At the same time:** 
+
+- **Executive leadership teams of these brands remain largely white.**
+- **Only ~1% of garments produced worldwide are done so by workers being paid living wages in their home countries.**
+- **Most growth is created by a rate of consumption that no amount of recycling will offset.**
+
+### And because we still aren't able to truly verify whether garments are being produced ethically - *everyone* in the industry is put in a compromising position:
+
+A designer based in Los Angeles may be complicit in the exploitation and brutalization of a child laborer in Bangladesh... though they may never know it. 
+
+# Solution = A New Trustless System
+
+## We want to create a participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
+
+
 
