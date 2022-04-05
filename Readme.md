@@ -28,6 +28,7 @@ The apparel and luxury market reached $1.9 trillion globally in 2019 - and is ex
 
 However, the distribution of returns in the fashion industry is heavily skewed. This is because a traditional brand's business model is based around maximizing profit - by minimizing value returned to stakeholders.
 
+Old System                      vs.                    New System
 ![alt text](https://github.com/HibiscusDao/Whitepaper/blob/4fea7739a1fce21e5c3078d0d45eaf9e91a77046/Visuals/Profit_Distribution_Systems_001.jpg?raw=true)
 
 
