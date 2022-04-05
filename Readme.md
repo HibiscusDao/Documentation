@@ -81,9 +81,29 @@ A designer based in Los Angeles may be complicit in the exploitation and brutali
 
 # Solution = A New Trustless System
 
-## We want to create a participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
+We want to create a participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
 
 ![alt text](https://github.com/HibiscusDao/Whitepaper/blob/bc51e8515c00e9cb38e42db919b23ac17e380376/Visuals/Basic_CommunityOwned_System_001.jpg?raw=true)
+
+## Reinvention of Apparel Production via "Proof of Non-Slave Labor"
+
+Building this new system will lift up creators and crafters - which can force traditional apparel brands into an "arms race" towards ethical production by driving adoption of a new industry standard of cryptographic verification in the supply chain. 
+
+The traditional system of apparel production is fundamentally exploitative and requires reinvention. We view crypto technologies and philosophies, from fractional ownership, to tokenized licenses, to smart contracts, as the best tools for this job. 
+
+Traditional brands benefiting from this status quo of exploitation will never willingly give up their profits for a more ethical alternative. We have to disrupt them and build a new system from the ground up. 
+
+With blockchain technology - cloud-based crowdsourced human-rights oracles and "Proof of Location" protocols can validate safe and healthy work places.
+
+Normalizing use of these human-rights oracles and verification protocols in apparel production would expose corporations for lack of "Proof of Non-Slave Labor".
+
+### As “Proof of Non-Slave Labor” becomes an industry standard:
+
+### Corporations who currently have a stranglehold on fashion would be forced to adopt ethical supply chain operations or admit - by omission - to using slave labor.
+
+To make this a reality we need to research and apply protocols to power fully transparent on-chain apparel production. This enables a community owned, transparent, and innovative production process.
+
+### ON CHAIN SUPPLY NFTS + TRANSACTIONS
 
 
 
