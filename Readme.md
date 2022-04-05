@@ -137,6 +137,8 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 - Shareholders, makers and creators shouldn’t be in opposition.
 - Effective products and social human rights shouldn’t be in opposition.
 
+![alt text](https://github.com/HibiscusDao/Whitepaper/blob/3cc782b3e3415b73b43be513617af45f2db143d9/Visuals/Basic_CommunityOwned_System_002.png)
+
 # Immediate Roadmap
 
 ## First Wins for Hibiscus DAO
