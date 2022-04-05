@@ -137,6 +137,29 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 - Shareholders, makers and creators shouldn’t be in opposition.
 - Effective products and social human rights shouldn’t be in opposition.
 
+# Immediate Roadmap
+
+## First Wins for Hibiscus DAO
+
+> **“Merch as a gateway drug to design for diversity”**
+> 
+
+As creating a humane on-chain system is a huge endeavor, we’re to use "merch" production as a testing ground for returning ownership to the community + producers. 
+
+### Key ideas to work on immediately bringing to life:
+
+1. **Build** “**Fashion Legos”:** a **garment library that serves an open-source, Github-like platform for apparel production.** 
+    - Create open source, end-to-end apparel production supply chain + tech infrastructure that allows creators to easily create new garments on existing bases.
+
+2. **Cultivate a repository of designers, producers, and suppliers who have successful used our core garment library protocol.** 
+    - This gives our protocol network effects - making it even easier for new projects to create apparel by forking and building on top of existing on-chain portfolios - which include garments, materials, and designs.
+    
+3. **Split system for community contributors.** 
+    - Figure out how to retain and redistribute the value created in making and wearing apparel via cryptographic profit sharing.
+    
+4. **Produce the first community-curated collection.** 
+    - Leverage in-house production supply chain + tech infrastructure to release Hibiscus’s first community-curated collection - becoming a decentralized apparel brand in the process.
+
 
 
 
