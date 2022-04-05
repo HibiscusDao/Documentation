@@ -83,5 +83,7 @@ A designer based in Los Angeles may be complicit in the exploitation and brutali
 
 ## We want to create a participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
 
+![alt text](https://github.com/HibiscusDao/Whitepaper/blob/bc51e8515c00e9cb38e42db919b23ac17e380376/Visuals/Basic_CommunityOwned_System_001.jpg?raw=true)
+
 
 
