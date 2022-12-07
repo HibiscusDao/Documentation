@@ -30,7 +30,7 @@ However, the distribution of returns in the fashion industry is heavily skewed. 
 
 ### OLD SYSTEM VS NEW SYSTEM
 
-![alt text](https://github.com/HibiscusDao/Whitepaper/blob/4fea7739a1fce21e5c3078d0d45eaf9e91a77046/Visuals/Profit_Distribution_Systems_001.jpg?raw=true)
+![alt text](https://u5wbk7zwel7uxlouhvnhhkvhft7d655x7dysqmdbedqp3mns7qmq.arweave.net/p2wVfzYi_0ut1D1ac6qnLP4_d7f48SgwYSDg_bGy_Bk)
 
 **The traditional fashion industry is rooted in the exploitation of:** 
 
