@@ -137,7 +137,7 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 - Shareholders, makers and creators shouldn’t be in opposition.
 - Effective products and social human rights shouldn’t be in opposition.
 
-![alt text](https://6f6ckvuz7eahoeghm6rtctjmprltwk6zhih3tfj4y6qkd67emwjq.arweave.net/8XwlVpn5AHcQx2ejMU0sfFc7K9k6D7mVPMegofvkZZM)
+![alt text](https://3fsbrdgw6egc5t7ztefxadssqxkpowh7ibwpggafx2glg6memfra.arweave.net/2WQYjNbxDC7P-ZkLcA5ShdT3WP9AbPMYBb6Ms3mEYWI)
 
 # Immediate Roadmap
 
