@@ -105,7 +105,7 @@ To make this a reality we need to research and apply protocols to power fully tr
 
 ### ON CHAIN SUPPLY NFTS + TRANSACTIONS
 
-![alt text](https://github.com/HibiscusDao/Whitepaper/blob/f102119659555d29740c4b762a9eed8706e42253/Visuals/On_Chain_Provenance_001.jpg)
+![alt text](https://waoxmcsvnyurzod7at6sqiz6mhcqjxhxddrlyp4cjwetuhpawp2a.arweave.net/sB12ClVuKRy4fwT9KCM-YcUE3PcY4rw_gk2JOh3gs_Q)
 
 ## Hibiscus DAO = Empowerment
 
@@ -224,7 +224,7 @@ Whether for function or fashion - there are many use cases for Metaverse apparel
 - Operationalizing physical onramps into the Metaverse by getting your body scanned and measured to your avatar.
 - Trying on clothes in the Metaverse, paying with your wallet, and getting the product sent to you IRL.
 
-
+![alt text](https://owgzui6wzjud2uvdepma7l5a445sfda5a5dnttc2jsnop5iuhfkq.arweave.net/dY2aI9bKaD1SoyPYD6-g5zsijB0HRtnMWkya5_UUOVU)
 
 
 
