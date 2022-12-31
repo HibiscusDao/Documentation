@@ -2,13 +2,14 @@
 
 # Decentralization
 
-[Headless Brands](https://otherinter.net/research/headless-brands/)
-[Hyperstructures](https://jacob.energy/hyperstructures.html)
+[Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
+[Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
+
 
 # Pattern Making
 
-[GenCloth](https://gencloth.com/)
-[Decode](https://decodemfg.com/)
+[GenCloth](https://gencloth.com/)<br/>
+[Decode](https://decodemfg.com/)<br/>
 
 
 # Location & Traeability
@@ -17,14 +18,14 @@
 
 # Textile
 
-[ByBorre](https://create.byborre.com/)
+[ByBorre](https://create.byborre.com/)<br/>
 [Wovns Studio](https://www.wovns.com/)
 
 
 # Identity
 
-https://www.brightid.org/
-https://www.proofofhumanity.org/
+https://www.brightid.org/<br/>
+https://www.proofofhumanity.org/<br/>
 https://www.sismo.io/
 
 
