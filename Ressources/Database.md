@@ -1,11 +1,14 @@
 ## Hibiscus Database
 
-WIP Repository of ressources & partners working on the new frontier of garment creation, sustainability & tranparency. 
+# Decentralization
+
+[Headless Brands](https://otherinter.net/research/headless-brands/)
+[Hyperstructures](https://jacob.energy/hyperstructures.html)
 
 # Pattern Making
 
-https://gencloth.com/
-https://decodemfg.com/
+[GenCloth](https://gencloth.com/)
+[Decode](https://decodemfg.com/)
 
 
 # Location & Traeability
