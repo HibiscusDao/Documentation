@@ -5,6 +5,9 @@
 [Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
 
+# Smart Contracts
+
+[Liquid Splits](https://docs.0xsplits.xyz/modules/liquid)<br/>
 
 # Pattern Making
 
