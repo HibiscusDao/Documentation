@@ -1,4 +1,4 @@
-## Hibiscus Database
+## Database
 
 # Decentralization
 
@@ -13,12 +13,12 @@
 
 # Location & Traeability
 
-https://foam.space/
+[Foam Protocol](https://foam.space/)
 
 # Textile
 
-https://create.byborre.com/
-https://www.wovns.com/
+[ByBorre](https://create.byborre.com/)
+[Wovns Studio](https://www.wovns.com/)
 
 
 # Identity
