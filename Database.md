@@ -2,8 +2,7 @@
 
 # Decentralization
 
-[Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
-<a href="https://otherinter.net/research/headless-brands/" target="_blank">Headless Brands</a><br/>
+[Headless Brands](https://otherinter.net/research/headless-brands/){:target="_blank"}<br/>
 
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
 
