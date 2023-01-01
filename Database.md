@@ -24,11 +24,11 @@
 [Wovns Studio](https://www.wovns.com/)
 
 
-### Identity
+### Identity + Privacy
 
-https://www.brightid.org/<br/>
-https://www.proofofhumanity.org/<br/>
-https://www.sismo.io/
+[Bright ID](https://www.brightid.org/)<br/>
+[Proof of Humanity](https://www.proofofhumanity.org/)<br/>
+[Sismo](https://www.sismo.io/)<br/>
 
 
 ### Advanced Concepts 
