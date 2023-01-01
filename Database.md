@@ -34,5 +34,5 @@ https://www.sismo.io/
 
 # Advanced Concepts 
 
-[terra0](https://app.ardrive.io/#/file/ee10f8a0-c0a4-48f0-be92-a4e4a057df37/view)<br/>
+[terra0](https://kdn2cwwmoywc5dhcmwbree6aqnnc4qii6bjwbrq2k3utcosbmnga.arweave.net/UNuhWsx2LC6M4mWDEhPAg1ouQQjwU2DGGlbpMTpBY0w)<br/>
 
