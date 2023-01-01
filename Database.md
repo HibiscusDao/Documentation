@@ -15,9 +15,10 @@
 [Decode](https://decodemfg.com/)<br/>
 
 
-# Location & Traeability
+# Physical Proofs
 
-[Foam Protocol](https://www.youtube.com/watch?v=EJeMVh4tm1w&t=1s)
+[Proof of Physical Work](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-2023-Edition-48d40ccadeeb42a48056659fcce109b1#6785d98467544da3a6935c40e0f1f73c)<br/>
+[Proof of Location](https://www.youtube.com/watch?v=EJeMVh4tm1w&t=1s)
 
 # Textile
 
