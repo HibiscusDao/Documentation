@@ -2,8 +2,7 @@
 
 For more information on Hibiscus Technologies, see the original whitepaper [here](./Research/Whitepaper_001.md).
 
-# Foundational Research & Publications
+// # Foundational Research & Publications
 
-# Ressource Repo
 
 
