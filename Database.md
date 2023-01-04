@@ -3,7 +3,7 @@
 [Decentralization Explained](https://www.youtube.com/watch?v=SrA7XTDCtok)<br/>
 [Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
-[The Role of Blackchain ](https://qhj5y2i3ubk5iw6cwasj3yrivdnvwu5pxyzurddy7b4w7yjmckja.arweave.net/gdPcaRugVdRbwrAkneIoqNtbU6--M0iMePh5b-EsEpI)<br/>
+[Blockchain technology in the fashion supply chain](https://zuj35osrq635qzo4h2bmc2qqtpmhzv4fcdr45cdrc6opjuyi6uoq.arweave.net/zRO-ulGHt9hl3D6CwWoQm9h814UQ486IcRec9NMI9R0)<br/>
 
 ### Smart Contracts
 
