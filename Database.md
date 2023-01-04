@@ -41,3 +41,4 @@
 
 [Decentralized Discord](https://www.console.xyz/)<br/>
 [Token Enabled Web Pages](https://highlight.xyz/)<br/>
+[Allow List Creation Tool](https://lanyard.org/)<br/>
