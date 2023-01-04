@@ -3,6 +3,7 @@
 [Decentralization Explained](https://www.youtube.com/watch?v=SrA7XTDCtok)<br/>
 [Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
+[The Role of Blackchain ](https://qhj5y2i3ubk5iw6cwasj3yrivdnvwu5pxyzurddy7b4w7yjmckja.arweave.net/gdPcaRugVdRbwrAkneIoqNtbU6--M0iMePh5b-EsEpI)<br/>
 
 ### Smart Contracts
 
@@ -36,3 +37,7 @@
 
 [terra0](https://kdn2cwwmoywc5dhcmwbree6aqnnc4qii6bjwbrq2k3utcosbmnga.arweave.net/UNuhWsx2LC6M4mWDEhPAg1ouQQjwU2DGGlbpMTpBY0w)<br/>
 
+### Third Web Tools
+
+[Decentralized Discord](https://www.console.xyz/)<br/>
+[Token Enabled Web Pages](https://highlight.xyz/)<br/>
