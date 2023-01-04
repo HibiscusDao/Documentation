@@ -1,5 +1,6 @@
 ### Decentralization
 
+[Decentralization Explained](https://www.youtube.com/watch?v=SrA7XTDCtok)<br/>
 [Headless Brands](https://otherinter.net/research/headless-brands/)<br/>
 [Hyperstructures](https://jacob.energy/hyperstructures.html)<br/>
 
