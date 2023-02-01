@@ -48,7 +48,9 @@
 [The Cutting Room Floor](https://thecuttingroomfloor.com/)<br/>
 [Fashionroadman](https://www.youtube.com/fashionroadman)<br/>
 
+### Fashion Archive Documentation
 
+[Archive.pdf](https://www.archivepdf.net/)<br/>
 
 
 
