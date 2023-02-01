@@ -42,3 +42,13 @@
 [Decentralized Discord](https://www.console.xyz/)<br/>
 [Token Enabled Web Pages](https://highlight.xyz/)<br/>
 [Allow List Creation Tool](https://lanyard.org/)<br/>
+
+### Contemporary Fashion Voices 
+
+[The Cutting Room Floor](https://thecuttingroomfloor.com/)<br/>
+[Fashionroadman](https://www.youtube.com/fashionroadman)<br/>
+
+
+
+
+
