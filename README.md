@@ -1,12 +1,3 @@
-# Hibiscus 
-
-1. [What is Hibiscus DAO?](#what-is-hibiscus-dao)
-2. [Current Landscape of Apparel Production](#Current-Landscape-of-Apparel-Production)
-3. [Brands Obscure Exploitative Practices](#brands-obscure-exploitative-practices)
-4. [Solution: A New Trustless System](#trustless-systems)
-5. [Immediate Roadmap](#roadmap)
-6. [Future Builds](#future-builds)
-
 ![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
 Initial visual representation of a decentralized, participant-powered garment design & production ecosystem.
 
@@ -158,7 +149,7 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 ![Profit Sharing Communities](https://arweave.net/9kA1XficL0yzfzPej3SpmQXnNCj4HzzPIzRbQcpbEU0)
 
 
-### Core products
+# Core concepts
 
 1. **Build** “**Fashion Legos”:** a **garment library that serves an open-source, Github-like platform for apparel production.** 
     - Create open source, end-to-end apparel production supply chain + tech infrastructure that allows creators to easily create new garments on existing bases.
