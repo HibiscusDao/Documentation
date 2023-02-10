@@ -4,10 +4,9 @@
 1. [What is Hibiscus DAO?](#what-is-hibiscus-dao)
 2. [Current Landscape of Apparel Production](#Current-Landscape-of-Apparel-Production)
 3. [Brands Obscure Exploitative Practices](#brands-obscure-exploitative-practices)
-4. [Solution = A New Trustless System](#a-trustless-system)
-5. [Behind Hibiscus](#behind-hibiscus)
-6. [Immediate Roadmap](#roadmap)
-7. [Future Builds](#roadmap)
+4. [Solution: A New Trustless System](#solution:-a-new-trustless-system)
+5. [Immediate Roadmap](#roadmap)
+6. [Future Builds](#future-builds)
 
 
 # What is Hibiscus DAO
@@ -100,7 +99,7 @@ They pour hundreds of millions into assuaging consumer guilt via manipulative me
 
 A designer based in Los Angeles may be complicit in the exploitation and brutalization of a child laborer in Bangladesh... though they may never know it. 
 
-# Solution = A New Trustless System
+# Solution: A New Trustless System
 
 ## A participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
 
@@ -154,5 +153,8 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 
 - Shareholders, makers and creators shouldn’t be in opposition.
 - Effective products and social human rights shouldn’t be in opposition.
+
+![Data Ownership in fashion consumption](https://arweave.net/9kA1XficL0yzfzPej3SpmQXnNCj4HzzPIzRbQcpbEU0)
+
 
 
