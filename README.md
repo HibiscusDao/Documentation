@@ -9,7 +9,7 @@
 6. [Immediate Roadmap](#roadmap)
 7. [Future Builds](#roadmap)
 
-## What is Hibiscus DAO
+# What is Hibiscus DAO
 
 Mission: Build an open source end-to-end process for fully-transparent + community-owned apparel production.
 
@@ -29,7 +29,7 @@ Build cryptographic profit sharing into our fashion lego tooling - enabling the 
 
 Eventually, we want to create a system of producing clothes that uses consensus-driven blockchain technology to verify products are being made ethically.
 
-## Current Landscape of Apparel = Exploitation
+# Current Landscape of Apparel = Exploitation
 
 The fashion industry is growing exponentially - without any signs of slowing down. 
 
@@ -37,4 +37,7 @@ The apparel and luxury market reached $1.9 trillion globally in 2019 - and is ex
 
 However, the distribution of returns in the fashion industry is heavily skewed. This is because a traditional brand's business model is based around maximizing profit - by minimizing value returned to stakeholders. 
 
-## Old System                      vs.                    New System
+### Old System                      vs.                    New System
+
+![Profit redistribution in fashion](https://qp6xd6bzsilpzkhddxk5gkxld7oqzsbxxkf2omt4zfuhdadnlaoa.arweave.net/g_1x-DmSFvyo4x3V0yrrH90MyDe6i6cyfMlocYBtWBw)
+
