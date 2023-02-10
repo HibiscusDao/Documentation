@@ -1,6 +1,3 @@
-![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
-Initial visual representation of a decentralized, participant-powered garment design & production ecosystem.
-
 # Hibiscus 
 
 1. [What is Hibiscus DAO?](#what-is-hibiscus-dao)
@@ -10,6 +7,8 @@ Initial visual representation of a decentralized, participant-powered garment de
 5. [Immediate Roadmap](#roadmap)
 6. [Future Builds](#future-builds)
 
+![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
+Initial visual representation of a decentralized, participant-powered garment design & production ecosystem.
 
 # What is Hibiscus DAO
 
