@@ -1,3 +1,6 @@
+! [Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
+
+Early 
 
 # Hibiscus 
 
@@ -154,7 +157,25 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 - Shareholders, makers and creators shouldn’t be in opposition.
 - Effective products and social human rights shouldn’t be in opposition.
 
-![Data Ownership in fashion consumption](https://arweave.net/9kA1XficL0yzfzPej3SpmQXnNCj4HzzPIzRbQcpbEU0)
+![Profit Sharing Communities](https://arweave.net/9kA1XficL0yzfzPej3SpmQXnNCj4HzzPIzRbQcpbEU0)
+
+# Current State
+
+> **“Merch as a gateway drug to design for diversity”**
+> 
+
+Use "merch" production as a testing ground for returning ownership to the community + producers. 
+
+### Core products
+
+1. **Build** “**Fashion Legos”:** a **garment library that serves an open-source, Github-like platform for apparel production.** 
+    - Create open source, end-to-end apparel production supply chain + tech infrastructure that allows creators to easily create new garments on existing bases.
+
+![On chain transparent value distribution](https://47jbmb64viqixpqtvosdlnrmwvi4ku7o7wpyd7d6itsyz4mpaoza.arweave.net/59IWB9yqIIu-E6ukNbYstVHFU-79n4H8fkTljPGPA7I)
 
 
-
+2. **Cultivate token curated registries of designers, producers, and suppliers who have successful used our core garment library protocol.** 
+    - This gives our protocol network effects - making it even easier for new projects to create apparel by forking and building on top of existing on-chain portfolios - which include garments, materials, and designs.
+    
+3. **Split system for community contributors.** 
+    - Figure out how to retain and redistribute the value created in making and wearing apparel via cryptographic profit sharing.
