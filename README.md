@@ -1,5 +1,4 @@
 ![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
-
 Initial visual representation of a decentralized, participant-powered garment design & production ecosystem.
 
 # Hibiscus 
@@ -7,7 +6,7 @@ Initial visual representation of a decentralized, participant-powered garment de
 1. [What is Hibiscus DAO?](#what-is-hibiscus-dao)
 2. [Current Landscape of Apparel Production](#Current-Landscape-of-Apparel-Production)
 3. [Brands Obscure Exploitative Practices](#brands-obscure-exploitative-practices)
-4. [Solution: A New Trustless System](#solution:-a-new-trustless-system)
+4. [Solution: A New Trustless System](#trustless-systems)
 5. [Immediate Roadmap](#roadmap)
 6. [Future Builds](#future-builds)
 
@@ -102,7 +101,7 @@ They pour hundreds of millions into assuaging consumer guilt via manipulative me
 
 A designer based in Los Angeles may be complicit in the exploitation and brutalization of a child laborer in Bangladesh... though they may never know it. 
 
-# Solution: A New Trustless System
+# Trustless Systems
 
 ## A participant-owned system of producing clothes that uses consensus-driven blockchain technology to verify that products are being made ethically.
 
@@ -159,19 +158,13 @@ Blockchains can redesign incentives to enable freedom, effectiveness, and teamwo
 
 ![Profit Sharing Communities](https://arweave.net/9kA1XficL0yzfzPej3SpmQXnNCj4HzzPIzRbQcpbEU0)
 
-# Current State
-
-> **“Merch as a gateway drug to design for diversity”**
-> 
-
-Use "merch" production as a testing ground for returning ownership to the community + producers. 
 
 ### Core products
 
 1. **Build** “**Fashion Legos”:** a **garment library that serves an open-source, Github-like platform for apparel production.** 
     - Create open source, end-to-end apparel production supply chain + tech infrastructure that allows creators to easily create new garments on existing bases.
 
-![On chain transparent value distribution](https://47jbmb64viqixpqtvosdlnrmwvi4ku7o7wpyd7d6itsyz4mpaoza.arweave.net/59IWB9yqIIu-E6ukNbYstVHFU-79n4H8fkTljPGPA7I)
+![Open Source Clothing](https://w53t4dhaudrvdnki26xugxx7kg3pvjnq654en2ctfmlfop5kjwwa.arweave.net/t3c-DOCg41G1SNevQ17_Ubb6pbD3eEboUysWVz-qTaw)
 
 
 2. **Cultivate token curated registries of designers, producers, and suppliers who have successful used our core garment library protocol.** 
@@ -179,3 +172,65 @@ Use "merch" production as a testing ground for returning ownership to the commun
     
 3. **Split system for community contributors.** 
     - Figure out how to retain and redistribute the value created in making and wearing apparel via cryptographic profit sharing.
+
+We can decentralize the supply chain by: 
+
+- Setting up participation through product testing bounties, community management, cross-world infrastructure and blockchain development.
+- Eventually - creating the ultimate “god” protocol brands with full on chain supply.
+
+On returning ownership: 
+
+- Building on-chain tools for designers to register their work to ensure proper attribution.
+- Enable structures such as product purchases that would give back a percentage in ownership of the organization - enabling access to dividends.
+- Creating a community governed treasury to give back to inner city groups inspiring mainstream trends or help build better support structures for communities supplying raw materials.
+
+First steps = Inviting consumer participation via Product Review + Social Marketing Bounties: 
+
+- Sourcing content and reviews from users who are rewarded for it.
+
+## Building Incentives for Environmentally-Sound Consumption
+
+**We can reduce environmental impact by embracing that a single piece can live multiple lives with different owners.** 
+
+**We can incentivize this behavior by helping pieces hold their value with a robust secondary market ecosystem:**
+
+- Building integrated secondary markets where the community can list pre-owned pieces and enjoy continuous returns from future sales.
+- Integrating secondary markets and product liquidity such that you can “return” an item for the secondary market value immediately or purchase a “used” item for the current floor price.
+
+**And by allowing you to retain value from your item even after it leaves your closet:** 
+
+- Generating NFTs as “proof of journey” or “store of value” with the encrypted data gathered by your product: a unique “souvenir” of your time with the product before it leaves your wardrobe for a new home.
+- Focusing on chain storage, a dynamic NFT can “store” the customer’s collection as "shares" without having to immediately claim the items. Staking your shares, can possible let you “mine” limited products or give you access to new “utility” NFTs.
+
+## Augmenting User Experience
+
+### Geocaching = Gamifying IRL Exploration
+
+Decentralized geocaching would bring another dimension to the experience of buying and wearing sport clothes.
+
+Whether it’s a simple hike outside of LA or ascending Kilimanjaro - rewarding explorers with real value from their data gathered or their miles traveled helps create a regenerative and healthy relationship between users and performance products. 
+
+We can even incentivize outdoor exploration in our gear by having of our athletes create geocached bounties for each collection. 
+
+- Tweaking with a community approach: a prize cannot be fully redeemed until multiple fragments around the glove are found.
+
+- Adding a DeFi element: participants could have the privilege to stake their rewards into a location-specific protocol such that when subsequent participants claim rewards - the staked users earn as well.
+
+### Metaverse + Apparel = Innovating Human Expression
+
+Sportswear and technology still has a lot of limits IRL, the Metaverse enables us to explore possibilities + preview developments. 
+
+There are currently no culturally relevant Metaverse fashion platforms, whether it’s for designers, curators or users. 
+
+Whether for function or fashion - there are many use cases for Metaverse apparel: 
+
+- Equipping your avatar for Metaverse exploration or flexing at the recent opening of the Fingerprints DAO museum.
+- Enabling accessibility to give humans with disabilities more options to represent themselves and interact with their environment however they would like.
+- Ideating innovative designs that wouldn't be possible IRL - like light refracting “invisibility” jackets or continuously changing “prints” on pieces.
+- Using generative art to create new prints owned by creators - which can be sold/licensed.
+- Operationalizing physical onramps into the Metaverse by getting your body scanned and measured to your avatar.
+- Trying on clothes in the Metaverse, paying with your wallet, and getting the product sent to you IRL.
+
+---
+
+### Co-authored by [Jeremy Karl (@techspec_)](https://twitter.com/techspec_) & **[Vishnu G. Kumar (@VishnuGKumar)](https://twitter.com/vgkfiles)**
