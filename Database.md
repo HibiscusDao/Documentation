@@ -57,5 +57,7 @@
 [Akord](https://v2.akord.com/sign-in?uid=424e1c94-7db2-4180-92d3-e0eeeafaf3e0)<br/>
 [Ardrive](https://ardrive.io/)<br/>
 
+### Unclassified 
 
+[Artists Rethinking the Blockchain](https://arweave.net/eszZGau66O3s0F7-UHFUndAxKJzg3M5oLV2BHaiaXtI)<br/>
 
