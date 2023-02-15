@@ -19,6 +19,7 @@
 
 [Proof of Physical Work](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-2023-Edition-48d40ccadeeb42a48056659fcce109b1#6785d98467544da3a6935c40e0f1f73c)<br/>
 [Proof of Location](https://www.youtube.com/watch?v=EJeMVh4tm1w&t=1s)
+[Expanded NFTs](https://docs.zien.io/#intro)<br/>
 
 ### Textile
 
@@ -60,5 +61,4 @@
 ### Unclassified 
 
 [Artists Rethinking the Blockchain](https://arweave.net/eszZGau66O3s0F7-UHFUndAxKJzg3M5oLV2BHaiaXtI)<br/>
-
 [After Copyright: Pwning NFTs in a Clout Economy by Brian : Frye](https://arweave.net/ODBq-kuCdt5bmQPNJCWSPlud-5ZyKPgGXYPgsNeWCzk)
