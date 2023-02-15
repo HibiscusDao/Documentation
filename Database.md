@@ -61,3 +61,4 @@
 
 [Artists Rethinking the Blockchain](https://arweave.net/eszZGau66O3s0F7-UHFUndAxKJzg3M5oLV2BHaiaXtI)<br/>
 
+[After Copyright: Pwning NFTs in a Clout Economy by Brian : Frye](https://arweave.net/ODBq-kuCdt5bmQPNJCWSPlud-5ZyKPgGXYPgsNeWCzk)
