@@ -1,3 +1,7 @@
+### Diversity
+
+[Design thread](https://www.designthreads.report/)
+
 ### Decentralization
 
 [Decentralization Explained](https://www.youtube.com/watch?v=SrA7XTDCtok)<br/>
