@@ -1,6 +1,4 @@
-#HIBISCUS WHITEPAPER 001
-
-# What is Hibiscus DAO
+# HIBISCUS WHITEPAPER 001
 
 Mission: Build an open source end-to-end process for fully-transparent + community-owned apparel production.
 
