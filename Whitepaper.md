@@ -1,5 +1,4 @@
-![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
-
+#HIBISCUS WHITEPAPER 001
 
 # What is Hibiscus DAO
 
@@ -221,6 +220,6 @@ Whether for function or fashion - there are many use cases for Metaverse apparel
 - Operationalizing physical onramps into the Metaverse by getting your body scanned and measured to your avatar.
 - Trying on clothes in the Metaverse, paying with your wallet, and getting the product sent to you IRL.
 
----
+![Community-Owned Garment Ecosystems](https://wx3dtphwutdaclzgqaakpwgk4fu7d6lqcnjozv3cqj6dcmzlnlvq.arweave.net/tfY5vPakxgEvJoAAp9jK4Wnx-XATUuzXYoJ8MTMraus)
 
 ### Co-authored by [Jeremy Karl (@techspec_)](https://twitter.com/techspec_) & **[Vishnu G. Kumar (@VishnuGKumar)](https://twitter.com/vgkfiles)**
