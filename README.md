@@ -1,2 +1,0 @@
-# Documentation
-Whitepaper & Publication Archive
